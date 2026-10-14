@@ -1,0 +1,16 @@
+# Секреты и переменные окружения
+.env
+.env.*
+!.env.example
+
+# Логи и временные файлы
+*.log
+*.tmp
+
+# C# / .NET
+bin/
+obj/
+.vs/
+
+# Node.js
+node_modules/

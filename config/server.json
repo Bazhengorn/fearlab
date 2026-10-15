@@ -1,5 +1,6 @@
 {
   "serverName": "FearLab Training",
   "maxPlayers": 32,
-  "loggingEnabled": false
+  "loggingEnabled": false,
+  "logLevel": "info"
 }
